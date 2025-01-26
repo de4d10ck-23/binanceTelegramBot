@@ -1,7 +1,7 @@
 import ccxt
 import re
 from telethon import TelegramClient, events, sync
-
+#gwapo si john lloyd
 #This is for Binance API
 api_key = '2d815c7a0bcc926e1fdaa7452fc7ef5296c5fc262c56eeb20bbacf2a77bc5e1e'
 api_secret = '934833360933db40f6c30fab2ed5b54204fc92da81ad7ad6883672c60a13f771'
